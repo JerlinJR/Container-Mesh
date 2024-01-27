@@ -1,0 +1,27 @@
+[-]Sending stop signal to container: jerlin
+[-]Removing wireguard configuration
+[-]Preserving home directory
+Container with ID or name 'jerlin' not found.
+ERROR: Conflict. The container name "/jerlin" is already in use by container "150d7cb2b90004868b44531ce8707166d8e90c55c7495464d273530efdbf58cd". You have to remove (or rename) that container to be able to reuse that name.
+Status code: 409
+[-]Sending stop signal to container: jerlin
+[-]Removing wireguard configuration
+[-]Preserving home directory
+[-]Container stopped and removed successfully
+[+]Setting jerlin to privileged mode.
+[+]Container started with ID: eae61ccbbe952f99901f67dc0f5e8d3842efc67b616d5f5ba8ce6cfb049d3ce6
+[+]Username: jerlin
+[+]Password: jerlin@123
+[+]Your ondemand operating system is deployed: ssh jerlin@172.20.0.115
++---+------------------------------------------------------------------+--------+---------+
+| # |                           Container ID                           |  Name  |  Status |
++---+------------------------------------------------------------------+--------+---------+
+| 1 | eae61ccbbe952f99901f67dc0f5e8d3842efc67b616d5f5ba8ce6cfb049d3ce6 | jerlin | running |
++---+------------------------------------------------------------------+--------+---------+
+[
+  {
+    "Container ID": "eae61ccbbe95",
+    "Container Name": "jerlin",
+    "WireGuard IP": "172.20.0.115"
+  }
+]

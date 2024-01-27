@@ -1,0 +1,23 @@
+{
+  "name": "wireguard-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JerlinJR/Wireguard-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JerlinJR/Wireguard-API/issues"
+  },
+  "homepage": "https://github.com/JerlinJR/Wireguard-API#readme"
+}
