@@ -1,0 +1,9 @@
+[Interface]
+PrivateKey= <PRIVATE_KEY>
+Address=<INTERNAL_IP>/16
+
+[Peer]
+PublicKey= +GJs4ih5RB/F7c04XyhHIsRoyHIPMNX2RqUi9+D0PUA=
+AllowedIPs=172.20.0.1/16
+Endpoint=94.237.79.8:44556
+PersistentKeepalive=30

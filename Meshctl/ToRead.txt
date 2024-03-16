@@ -1,0 +1,27 @@
+Handshake mechanism
+Ip roaming Wireguard
+vpn for work
+ssh
+linux kernal with wireguard
+Wireguard 
+
+IR for cybersecurity
+
+
+
+Socket
+stream Socket
+datagram Socket
+syn ack
+
+
+
+Machine  Description:	Ubuntu 23.04 GNU/Linux 5.15.0-91-generic x86_64
+Hostname: 
+TERMS AND CONDITIONS
+--------------------
+1. This personal server is for learning, creating, developing, hosting purposes, and not for any illegal activities.
+2. Trying out dangerous attacks on any live websites or servers is strictly prohibited.
+3. Please always scan your computer system with an anti-virus software.
+4. Files outside your home directory will be deleted periodically.
+By using our servers to practice, you agree to all the above Terms and Conditions 
