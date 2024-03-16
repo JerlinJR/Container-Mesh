@@ -27,7 +27,7 @@
     <div id="errorLogs"></div>
 
     <script>
-        const socket = new WebSocket('ws://94.237.67.78:8080');
+        const socket = new WebSocket('ws://94.237.79.8:8080');
 
         socket.addEventListener('open', (event) => {
             console.log('Connected to the WebSocket server');

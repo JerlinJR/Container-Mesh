@@ -54,12 +54,12 @@ class Signup {
         $config = json_decode($config_json, true);
         $token = $this->token;
         $email = new \SendGrid\Mail\Mail();
-        $email->setFrom("noreply@selfmade.ninja", "API Course by Selfmade");
+        $email->setFrom("noreply@jerlin.me", "Verification Link");
         $email->setSubject("Verify your account");
         $email->addTo($this->email, $this->username);
-        $email->addContent("text/plain", "Please verify your account at: https://vpn.selfmade.ninja/verify?token=$token");
+        $email->addContent("text/plain", "Please verify your account at: https://jerlin.me/verify?token=$token");
         $email->addContent(
-            "text/html", "<strong>Please verify your account by <a href=\"https://vpn.selfmade.ninja/verify?token=$token\">clicking here</a> or open this URL manually: <a href=\"https://vpn.selfmade.ninja/verify?token=$token\">https://vpn.selfmade.ninja/verify?token=$token</a></strong>"
+            "text/html", "<strong>Please verify your account by <a href=\"https://jerlin.me/verify?token=$token\">clicking here</a> or open this URL manually: <a href=\"https://vpn.jerlin.me/verify?token=$token\">https://vpn.jerlin.me/verify?token=$token</a></strong>"
         );
         $sendgrid = new \SendGrid($config['email_api_key']);
         try {

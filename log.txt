@@ -25,3 +25,115 @@ Status code: 409
     "WireGuard IP": "172.20.0.115"
   }
 ]
+[
+  {
+    "Container ID": "eae61ccbbe95",
+    "Container Name": "jerlin",
+    "WireGuard IP": "172.20.0.115"
+  }
+]
+[-]Sending stop signal to container: jerlin
+[-]Removing wireguard configuration
+[-]Preserving home directory
+[-]Container stopped and removed successfully
+No containers found.
+No containers found.
+[+]Setting jerlin to privileged mode.
+[+]Container started with ID: bb89091a906926160d5f0bb240249a1f17de92bd7cd0e77432fc3c2307e15364
+[+]Username: jerlin
+[+]Password: jerlin@123
+WireGuard IP not found for container 'jerlin'.
++---+------------------------------------------------------------------+--------+---------+
+| # |                           Container ID                           |  Name  |  Status |
++---+------------------------------------------------------------------+--------+---------+
+| 1 | bb89091a906926160d5f0bb240249a1f17de92bd7cd0e77432fc3c2307e15364 | jerlin | running |
++---+------------------------------------------------------------------+--------+---------+
+[-]Sending stop signal to container: jerlin
+[-]Removing wireguard configuration
+[-]Preserving home directory
+[-]Container stopped and removed successfully
+[+]Setting jerlin to privileged mode.
+[+]Container started with ID: 297277b63ed260ac6b9c72f30645343e98a5777c7197a7fda883673ba1c06cad
+[+]Username: jerlin
+[+]Password: jerlin@123
+WireGuard IP not found for container 'jerlin'.
+[-]Sending stop signal to container: jerlin
+[-]Removing wireguard configuration
+[-]Preserving home directory
+[-]Container stopped and removed successfully
+[+]Setting jerlin to privileged mode.
+[+]Container started with ID: 522a2c4a15e9412672b2fc74b730115241abcf2847925b0b06eb849b34a69cf8
+[+]Username: jerlin
+[+]Password: jerlin@123
+[+]Your ondemand operating system is deployed: ssh jerlin@172.20.0.122
+[-]Sending stop signal to container: jerlin
+[-]Removing wireguard configuration
+[-]Preserving home directory
+[-]Container stopped and removed successfully
+[+]Setting jerlin to privileged mode.
+[+]Container started with ID: 90ea01269b09713630e826146f97da334ba399164225cb7c00b820f6b412c87c
+[+]Username: jerlin
+[+]Password: jerlin@123
+[+]Your ondemand operating system is deployed: ssh jerlin@172.20.0.123
+[-]Sending stop signal to container: jerlin
+[-]Removing wireguard configuration
+[-]Preserving home directory
+[-]Container stopped and removed successfully
+[+]Setting jerlin to privileged mode.
+[+]Container started with ID: 34a723b0ee06b44c8b2bc3624e6cee885dcdf20e7a2c2f39e8bbf25dd9d1bec9
+[+]Username: jerlin
+[+]Password: jerlin@123
+[+]Your ondemand operating system is deployed: ssh jerlin@172.20.0.124
+[-]Sending stop signal to container: jerlin
+[-]Removing wireguard configuration
+[-]Preserving home directory
+[-]Container stopped and removed successfully
+[+]Setting jerlin to privileged mode.
+[+]Container started with ID: 63b97311bfd09c0eeb01440148ea500ddd878d9695d264ecb5ffb5af54510d55
+[+]Username: jerlin
+[+]Password: jerlin@123
+[+]Your ondemand operating system is deployed: ssh jerlin@172.20.0.125
+[-]Sending stop signal to container: jerlin
+[-]Removing wireguard configuration
+[-]Preserving home directory
+[-]Container stopped and removed successfully
+[+]Setting jerlin to privileged mode.
+[+]Container started with ID: eb8c0c9c95aaa27fdfcec8c9fdc623a577c23ad2765174278b6d75768c035e34
+[+]Username: jerlin
+[+]Password: jerlin@123
+[+]Your ondemand operating system is deployed: ssh jerlin@172.20.0.126
++---+------------------------------------------------------------------+--------+---------+
+| # |                           Container ID                           |  Name  |  Status |
++---+------------------------------------------------------------------+--------+---------+
+| 1 | eb8c0c9c95aaa27fdfcec8c9fdc623a577c23ad2765174278b6d75768c035e34 | jerlin | running |
++---+------------------------------------------------------------------+--------+---------+
+[-]Sending stop signal to container: jerlin
+[-]Removing wireguard configuration
+[-]Preserving home directory
+[-]Container stopped and removed successfully
+[+]Setting jerlin to privileged mode.
+[+]Container started with ID: 24cbc5a146f4868ab7be9f289f4e2e401b3998ad5156f9fd2eb03f92fd74a14a
+[+]Username: jerlin
+[+]Password: jerlin@123
+[+]Your ondemand operating system is deployed: ssh jerlin@172.20.0.127
++---+------------------------------------------------------------------+--------+---------+
+| # |                           Container ID                           |  Name  |  Status |
++---+------------------------------------------------------------------+--------+---------+
+| 1 | 24cbc5a146f4868ab7be9f289f4e2e401b3998ad5156f9fd2eb03f92fd74a14a | jerlin | running |
++---+------------------------------------------------------------------+--------+---------+
+[
+  {
+    "Container ID": "24cbc5a146f4",
+    "Container Name": "jerlin",
+    "WireGuard IP": "172.20.0.127"
+  }
+]
+[-]Sending stop signal to container: jerlin
+[-]Removing wireguard configuration
+[-]Preserving home directory
+[-]Container stopped and removed successfully
+[+]Setting jerlin to privileged mode.
+[+]Container started with ID: 13b8b58c28a247e5d074efe4a999f983074e48090be122b3509874f8e5d077df
+[+]Username: jerlin
+[+]Password: jerlin@123
+[+]Your ondemand operating system is deployed: ssh jerlin@172.20.0.129
